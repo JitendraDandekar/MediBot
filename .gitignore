@@ -1,0 +1,7 @@
+test.*
+.env
+*.ipynb
+
+venv
+.ipynb_checkpoints
+__pycache__
