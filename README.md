@@ -33,3 +33,8 @@ GROQ_API_KEY=your_groq_api_key_here
     streamlit run app.py
     ```
 2. Interact with MediBot via the provided interface.
+
+## Screenshot
+
+Below is a screenshot of the MediBot interface:
+![MediBot Screenshot](https://github.com/user-attachments/assets/cbf52aad-a29e-4bfc-a139-4cad60211fe2)
